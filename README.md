@@ -6,3 +6,6 @@
 
 GEE code:
 https://code.earthengine.google.com/fc18b176861fdc4f462d9ac53889cfa7
+
+GEE App
+https://ee-abcgeomaticaagricola.projects.earthengine.app/view/liberia-1965
